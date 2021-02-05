@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\pp\source\repos\Fraction\Fraction\Source.cpp(34,37): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\pp\source\repos\Fraction\Fraction\Source.cpp(39,11): error C2374: a: переопределение; множественная инициализация
+C:\Users\pp\source\repos\Fraction\Fraction\Source.cpp(38): message : см. объявление "a"
